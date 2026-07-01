@@ -15,7 +15,3 @@
 - CSS
 - Git
 - GitHub
-
-## 📫 Connect with Me
-- Portfolio: (- Portfolio: https://madeshkannan2112.netlify.app/)
--->
