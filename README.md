@@ -2,11 +2,11 @@
 
 🎓 BE CSE Student
 
-💻 Learning MERN Stack
+Learning MERN Stack
 
-📚 Solving DSA in Java
+Solving DSA in Java
 
-🌱 Currently Learning React & Node.js
+Currently Learning React & Node.js
 
 ## 🛠️ Skills
 - Java
