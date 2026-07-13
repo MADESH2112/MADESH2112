@@ -1,6 +1,6 @@
-# Hi 👋, I'm Madesh
+# Hi  I'm Madesh
 
-🎓 BE CSE Student
+● BE CSE Student
 
 Learning MERN Stack
 
@@ -8,7 +8,7 @@ Solving DSA in Java
 
 Currently Learning React & Node.js
 
-## 🛠️ Skills
+## Skills
 - Java
 - JavaScript
 - HTML
